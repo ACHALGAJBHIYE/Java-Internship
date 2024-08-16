@@ -1,3 +1,8 @@
+/*
+Program to print area of circle.
+ INput from user.
+ */   
+
 import java.util.Scanner;
 public class Area {
     public static void main(String[] args){
